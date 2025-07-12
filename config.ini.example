@@ -1,0 +1,13 @@
+[mqtt]
+host = mqtt.example.com
+port = 1883
+username = admin
+password = superSecr3tPassword
+client_id = owntracks-webmap_client
+
+[map]
+center = 40.7789535,-73.9609251
+default_zoom = 12
+tile_url = https://tile.openstreetmap.org/{z}/{x}/{y}.png
+tile_attribution = OpenStreetMap contributors
+tile_attribution_url = https://www.openstreetmap.org/copyright
