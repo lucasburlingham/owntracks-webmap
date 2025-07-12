@@ -1,0 +1,12 @@
+{
+    "LB": {
+        "name": "User1 Android",
+        "icon": "profile.jpg",
+        "color": "blue"
+    },
+    "MP": {
+        "name": "User2 iPhone",
+        "icon": "profile2.jpg",
+        "color": "pink"
+    }
+}
